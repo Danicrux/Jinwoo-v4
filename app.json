@@ -14,7 +14,7 @@
     "OWNERS": {
       "description": "owner number",
       "required": true,
-      "value": ""
+      "value": "2349066919409"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
@@ -29,7 +29,7 @@
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "u5I30YDJ#y8I32b9T_AiDLpSLzGD5M0D_IUDcRr5WzjF9K3uz-Yk"
     },
     "MODE": {
       "description": "mode public or private",
